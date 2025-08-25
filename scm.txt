@@ -1,3 +1,4 @@
 automatic schedule 
 build with parameters 
 now it will trigger
+we are changimg into private
